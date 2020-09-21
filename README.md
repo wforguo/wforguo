@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there，I'm Forguo 👋
 
-Here are some ideas to get you started:
+一个前端爱好者
 
 ### 
 
