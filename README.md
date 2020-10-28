@@ -6,6 +6,6 @@
 
 - 🔭 Vue
 - 🌱 React
-- 🤔 Node + Koa
+- 🤔 Koa
 - 📫 MongoDB
 - ⚡ ...
