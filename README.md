@@ -1,6 +1,4 @@
-### 👋 Hi，我是 「forguo」
-
-[my blog](https://forguo.cn)
+[blog](https://forguo.cn)
 
 ### Status
 
